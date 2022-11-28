@@ -1,0 +1,100 @@
+#bokmenu{
+    position: absolute;
+    width: 224px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 7px -1px 12px rgba(0, 0, 0, 0.11);
+}
+#logo1{
+  /* Pro Manage */
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  left: 83px;
+  top: 32px
+}
+#group2{
+    position: absolute;
+    width: 139px;
+    height: 24px;
+    left: 43px;
+    top: 32px;
+}
+#logo2{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 43px;
+    top: 32px;  
+}
+#group{
+position: absolute;
+width: 130px;
+height: 24px;
+left: 43px;
+top: 114px;
+}
+.textdefault{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #000000;
+}
+#textdefault2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #707070;
+}
+#Dashboard{
+    position: absolute;
+    width: 90px;
+    height: 24px;
+    left: 83px;
+    top: 114px;
+}
+#gird12{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 43px;
+top: 114px;
+}
+#group3{
+/* Board */
+
+
+position: absolute;
+width: 49px;
+height: 24px;
+left: 83px;
+top: 175px;
+
+}
+#layout{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 43px;
+    top: 175px;   
+}
+#fkeokfo{
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 224px;
+height: 43px;
+left: 0px;
+top: 166px;
+
+background: rgba(255, 230, 0, 0.1);
+}
