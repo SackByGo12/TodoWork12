@@ -1,7 +1,7 @@
 #bokmenu{
     position: absolute;
     width: 224px;
-    height: 1024px;
+    height: 100vh;
     left: 0px;
     top: 0px;
     background: #FFFFFF;
@@ -86,15 +86,56 @@ top: 175px;
     left: 43px;
     top: 175px;   
 }
-#fkeokfo{
-/* Rectangle 2 */
-
-
-position: absolute;
-width: 224px;
-height: 43px;
-left: 0px;
-top: 166px;
-
-background: rgba(255, 230, 0, 0.1);
+#group4{
+    position: absolute;
+    width: 115px;
+    height: 24px;
+    left: 43px;
+    top: 235px; 
+    
+}
+/* Analytics */
+#analiz1{
+width: 75px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+color: #707070;
+}
+#database1{
+/* database */
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+#group5{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 43px;
+    top: 296px;
+}
+#settings_text{
+    width: 66px;
+    height: 24px;
+    left: 83px;
+    top: 296px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #707070;    
+}
+#settings_img{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px; 
 }
