@@ -114,7 +114,7 @@ margin-right: 10px;
 }
 #group5{
     position: absolute;
-    width: 106px;
+    width: 105px;
     height: 24px;
     left: 43px;
     top: 296px;
@@ -133,7 +133,23 @@ margin-right: 10px;
     color: #707070;    
 }
 #settings_img{
+    margin-right: 10px;
     width: 24px;
     height: 24px;
-    margin-right: 10px;
+}
+#group6{
+    position: absolute;
+    width: 96px;
+    height: 24px;
+    left: 46px;
+    top: 916px;    
+}
+#logut_text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #000000;
 }
